@@ -6,7 +6,7 @@ I enjoy improving system performance, writing clean and maintainable code, and c
 
 📌 **Open to Full-Stack / MERN Developer opportunities** where I can contribute to impactful projects and grow as a software engineer.
 
----
+
 
 ## 🛠️ Skills
 
@@ -17,7 +17,7 @@ I enjoy improving system performance, writing clean and maintainable code, and c
 **Authentication & Tools:** JWT, Clerk Auth, Postman, Cloudinary  
 **Developer Tools:** Git, GitHub, VS Code  
 
----
+
 
 ## 💻 Programming Languages
 
