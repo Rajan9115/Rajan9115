@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Rajan Kumar
+# 👋 Hi, I'm Rajan Jaiswal
 
-🎓 B.Tech CSE Student  
 💻 MERN Stack Developer  
-🚀 Passionate about building scalable web applications and solving real-world problems with code.
+🎓 B.Tech Graduate in Computer Science  
+💼 Actively seeking Full-Stack Developer opportunities
 
-I enjoy working on **frontend + backend integration**, creating clean UI, secure APIs, and efficient database systems.
+I build scalable web applications with clean UI, secure APIs, and efficient database systems. Passionate about turning ideas into real-world products.
+
 
 ---
 
@@ -19,10 +20,10 @@ I enjoy working on **frontend + backend integration**, creating clean UI, secure
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-JavaScript | C++ | Python  
+JavaScript | C++ | Typescript | C 
 
 ### 🎨 Frontend Development
-React.js | HTML | CSS | Tailwind CSS  
+Next.js | React.js | HTML | CSS | Tailwind CSS  
 
 ### ⚙️ Backend Development
 Node.js | Express.js  
@@ -40,11 +41,22 @@ Git | GitHub | VS Code
 
 ## 🌟 Featured Projects
 
-### 🎓 E-Learning Platform (MERN Stack)
+### 🎓 StudyNotion – E-Learning Platform (MERN Stack)
+🔗 **Live Demo:** https://study-notion-ed-tech-app-frontend.vercel.app/
+
 - Full-stack learning platform with authentication  
 - Course progress tracking system  
 - REST APIs for lecture completion  
 - Secure backend and responsive frontend  
+
+### ☁️ MiniDrive – Cloud Storage App
+🔗 **Live Demo:** https://mini-drive-6k9o.vercel.app/
+
+- File upload & storage system  
+- Secure user authentication  
+- Cloudinary integration for file handling  
+- Responsive UI with modern design  
+
 
 ### 🔐 Authentication & Utility Apps
 - OTP Email Verification System  
@@ -61,16 +73,14 @@ Git | GitHub | VS Code
 
 ## 📊 GitHub Stats
 
-![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajan9115&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan9115&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: yourmail@gmail.com  
-💼 LinkedIn: Add your link here  
+📧 Email: rajank5038383@gmail.com  
+
 
 ---
 
