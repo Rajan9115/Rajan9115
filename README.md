@@ -1,76 +1,79 @@
-👋 Hi, I'm Rajan Kumar
+# 👋 Hi, I'm Rajan Kumar
 
-🎓 B.Tech CSE Student
-💻 MERN Stack Developer
+🎓 B.Tech CSE Student  
+💻 MERN Stack Developer  
 🚀 Passionate about building scalable web applications and solving real-world problems with code.
 
-I enjoy working on frontend + backend integration, creating clean UI, secure APIs, and efficient database systems.
+I enjoy working on **frontend + backend integration**, creating clean UI, secure APIs, and efficient database systems.
 
-🚀 Currently Working On
+---
 
-Building full-stack MERN applications
+## 🚀 Currently Working On
 
-Improving backend architecture & API design
+- Building **full-stack MERN applications**
+- Improving **backend architecture & API design**
+- Learning **system design and scalable app development**
 
-Learning system design and scalable app development
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages
-JavaScript | C++ | Python
+### 💻 Languages
+JavaScript | C++ | Python  
 
-Frontend Development
-React.js | HTML | CSS | Tailwind CSS
+### 🎨 Frontend Development
+React.js | HTML | CSS | Tailwind CSS  
 
-Backend Development
-Node.js | Express.js
+### ⚙️ Backend Development
+Node.js | Express.js  
 
-Database
-MongoDB | Mongoose
+### 🗄️ Database
+MongoDB | Mongoose  
 
-Authentication & Tools
-JWT | Clerk Auth | Postman | Cloudinary
+### 🔐 Authentication & Tools
+JWT | Clerk Auth | Postman | Cloudinary  
 
-Developer Tools
-Git | GitHub | VS Code
+### 🧰 Developer Tools
+Git | GitHub | VS Code  
 
-🌟 Featured Projects
-🎓 E-Learning Platform (MERN Stack)
+---
 
-Full-stack learning platform with authentication
+## 🌟 Featured Projects
 
-Course progress tracking system
+### 🎓 E-Learning Platform (MERN Stack)
+- Full-stack learning platform with authentication  
+- Course progress tracking system  
+- REST APIs for lecture completion  
+- Secure backend and responsive frontend  
 
-REST APIs for lecture completion
+### 🔐 Authentication & Utility Apps
+- OTP Email Verification System  
+- Random Password Generator  
+- Secure login & signup flows  
 
-Secure backend and responsive frontend
+### 🌐 Frontend Projects
+- Currency Converter  
+- Chat Bot UI  
+- Meme Generator  
+- Interactive JavaScript apps  
 
-🔐 Authentication & Utility Apps
+---
 
-OTP Email Verification System
+## 📊 GitHub Stats
 
-Random Password Generator
+![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajan9115&show_icons=true&theme=tokyonight)
 
-Secure login & signup flows
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan9115&layout=compact&theme=tokyonight)
 
-🌐 Frontend Projects
+---
 
-Currency Converter
+## 📫 Connect With Me
 
-Chat Bot UI
+📧 Email: yourmail@gmail.com  
+💼 LinkedIn: Add your link here  
 
-Meme Generator
+---
 
-Interactive JavaScript apps
+## ⚡ Developer Goal
 
-📊 GitHub Stats
-
-📫 Connect With Me
-
-📧 Email: yourmail@gmail.com
-
-💼 LinkedIn: Add your link here
-
-⚡ Developer Goal
-
-To become a strong full-stack engineer who builds reliable, scalable, and user-focused web applications.
+To become a strong **full-stack engineer** who builds reliable, scalable, and user-focused web applications.
