@@ -1,89 +1,24 @@
-# 👋 Hi, I'm Rajan Jaiswal
+## 👨‍💻 About Me
 
-💻 MERN Stack Developer  
-🎓 B.Tech Graduate in Computer Science  
-💼 Actively seeking Full-Stack Developer opportunities
+I'm a MERN Stack Developer and Computer Science graduate focused on building modern, scalable web applications. I work on designing secure backend systems, REST APIs, and responsive user interfaces that solve real-world problems. I have hands-on experience developing full-stack projects, implementing authentication systems, and managing databases efficiently.
 
-I build scalable web applications with clean UI, secure APIs, and efficient database systems. Passionate about turning ideas into real-world products.
+I enjoy improving system performance, writing clean and maintainable code, and continuously learning new technologies.
 
-
----
-
-## 🚀 Currently Working On
-
-- Building **full-stack MERN applications**
-- Improving **backend architecture & API design**
-- Learning **system design and scalable app development**
+📌 **Open to Full-Stack / MERN Developer opportunities** where I can contribute to impactful projects and grow as a software engineer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### 💻 Languages
-JavaScript | C++ | Typescript | C 
+**Backend:** Node.js, Express.js, REST API Development  
+**Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS  
+**Databases:** MongoDB, Mongoose  
 
-### 🎨 Frontend Development
-Next.js | React.js | HTML | CSS | Tailwind CSS  
-
-### ⚙️ Backend Development
-Node.js | Express.js  
-
-### 🗄️ Database
-MongoDB | Mongoose  
-
-### 🔐 Authentication & Tools
-JWT | Clerk Auth | Postman | Cloudinary  
-
-### 🧰 Developer Tools
-Git | GitHub | VS Code  
+**Authentication & Tools:** JWT, Clerk Auth, Postman, Cloudinary  
+**Developer Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 🌟 Featured Projects
+## 💻 Programming Languages
 
-### 🎓 StudyNotion – E-Learning Platform (MERN Stack)
-🔗 **Live Demo:** https://study-notion-ed-tech-app-frontend.vercel.app/
-
-- Full-stack learning platform with authentication  
-- Course progress tracking system  
-- REST APIs for lecture completion  
-- Secure backend and responsive frontend  
-
-### ☁️ MiniDrive – Cloud Storage App
-🔗 **Live Demo:** https://mini-drive-6k9o.vercel.app/
-
-- File upload & storage system  
-- Secure user authentication  
-- Cloudinary integration for file handling  
-- Responsive UI with modern design  
-
-
-### 🔐 Authentication & Utility Apps
-- OTP Email Verification System  
-- Random Password Generator  
-- Secure login & signup flows  
-
-### 🌐 Frontend Projects
-- Currency Converter  
-- Chat Bot UI  
-- Meme Generator  
-- Interactive JavaScript apps  
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan9115&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-📧 Email: rajank5038383@gmail.com  
-
-
----
-
-## ⚡ Developer Goal
-
-To become a strong **full-stack engineer** who builds reliable, scalable, and user-focused web applications.
+JavaScript | TypeScript | C++ | C
