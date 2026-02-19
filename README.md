@@ -11,8 +11,8 @@ I enjoy improving system performance, writing clean and maintainable code, and c
 ## 🛠️ Skills
 
 **Backend:** Node.js, Express.js, REST API Development  
-**Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS  
-**Databases:** MongoDB, Mongoose  
+**Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS ,Javascript,Typescript
+**Databases:** MongoDB, Mysql
 
 **Authentication & Tools:** JWT, Clerk Auth, Postman, Cloudinary  
 **Developer Tools:** Git, GitHub, VS Code  
