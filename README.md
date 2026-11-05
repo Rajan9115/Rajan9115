@@ -84,18 +84,11 @@ I enjoy solving practical engineering problems, improving application performanc
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Rajan9115&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rajan9115&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 
-<p align="center">
-  <img
-    src="./profile/streak.svg"
-    height="180"
-    alt="GitHub Streak Stats"
-  />
-</p>
+
 
 
 ---
