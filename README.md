@@ -89,7 +89,7 @@ I enjoy solving practical engineering problems, improving application performanc
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rajan9115&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Rajan9115&theme=tokyonight" height="180" alt="GitHub Streak" />
 </p>
 
 ---
