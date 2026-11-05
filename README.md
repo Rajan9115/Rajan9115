@@ -24,9 +24,10 @@ I enjoy solving practical engineering problems, improving application performanc
 ---
 
 
+
 ## 🚀 Core Tech Stack
 
-<p align="center">
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" alt="JavaScript"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="52" alt="TypeScript"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" alt="Node.js"/></a>&nbsp;&nbsp;&nbsp;
@@ -34,28 +35,26 @@ I enjoy solving practical engineering problems, improving application performanc
   <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" alt="React"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="52" alt="Next.js"/></a>
 </p>
-
-<p align="center">
-  <sub>JavaScript&nbsp; • &nbsp;TypeScript&nbsp; • &nbsp;Node.js&nbsp; • &nbsp;Express.js&nbsp; • &nbsp;React&nbsp; • &nbsp;Next.js</sub>
+<p align="left">
+  <sub>JavaScript • TypeScript • Node.js • Express.js • React • Next.js</sub>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="Tailwind CSS"/></a>
 </p>
-
-<p align="center">
-  <sub>MongoDB&nbsp; • &nbsp;MySQL&nbsp; • &nbsp;HTML5&nbsp; • &nbsp;CSS3&nbsp; • &nbsp;Tailwind CSS</sub>
+<p align="left">
+  <sub>MongoDB • MySQL • HTML5 • CSS3 • Tailwind CSS</sub>
 </p>
 
-
+---
 
 ## 🧰 Additional Technologies
 
-<p align="center">
+<p align="left">
   <a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="42" alt="NestJS"/></a>&nbsp;&nbsp;
   <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" alt="FastAPI"/></a>&nbsp;&nbsp;
   <a href="https://ejs.co/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="42" alt="EJS"/></a>&nbsp;&nbsp;
@@ -65,11 +64,11 @@ I enjoy solving practical engineering problems, improving application performanc
   <a href="https://react-hook-form.com/"><img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="42" alt="React Hook Form"/></a>&nbsp;&nbsp;
   <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" alt="Redux"/></a>
 </p>
-<p align="center">
+<p align="left">
   <sub>NestJS • FastAPI • EJS • jQuery • React Query • React Router • React Hook Form • Redux</sub>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://socket.io/"><img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="42" alt="Socket.IO"/></a>&nbsp;&nbsp;
   <a href="https://threejs.org/"><img src="https://cdn.simpleicons.org/threedotjs/FFFFFF" width="42" alt="Three.js"/></a>&nbsp;&nbsp;
   <a href="https://vite.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="42" alt="Vite"/></a>&nbsp;&nbsp;
@@ -78,29 +77,29 @@ I enjoy solving practical engineering problems, improving application performanc
   <a href="https://cloudinary.com/"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="42" alt="Cloudinary"/></a>&nbsp;&nbsp;
   <a href="https://clerk.com/"><img src="https://cdn.simpleicons.org/clerk/6C47FF" width="42" alt="Clerk"/></a>
 </p>
-<p align="center">
+<p align="left">
   <sub>Socket.IO • Three.js • Vite • Redis • Prisma • Cloudinary • Clerk</sub>
 </p>
 
-
+---
 
 ## 💻 Programming Languages
 
-<p align="center">
+<p align="left">
   <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" alt="C++"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://en.cppreference.com/w/c"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" alt="C"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" alt="TypeScript"/></a>
 </p>
-<p align="center">
-  <sub>C++ &nbsp; • &nbsp; C &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; TypeScript</sub>
+<p align="left">
+  <sub>C++ • C • JavaScript • TypeScript</sub>
 </p>
 
-
+---
 
 ## 🛠️ Developer Tools & Platforms
 
-<p align="center">
+<p align="left">
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/></a>&nbsp;&nbsp;
   <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/></a>&nbsp;&nbsp;
   <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42" alt="GitHub Actions"/></a>&nbsp;&nbsp;
@@ -108,11 +107,11 @@ I enjoy solving practical engineering problems, improving application performanc
   <a href="https://www.selenium.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="42" alt="Selenium"/></a>&nbsp;&nbsp;
   <a href="https://eslint.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="42" alt="ESLint"/></a>
 </p>
-<p align="center">
+<p align="left">
   <sub>Git • GitHub • GitHub Actions • Postman • Selenium • ESLint</sub>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://prettier.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="42" alt="Prettier"/></a>&nbsp;&nbsp;
   <a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="42" alt="npm"/></a>&nbsp;&nbsp;
   <a href="https://nodemon.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="42" alt="Nodemon"/></a>&nbsp;&nbsp;
@@ -121,16 +120,17 @@ I enjoy solving practical engineering problems, improving application performanc
   <a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="42" alt="Vercel"/></a>&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/windows/terminal/"><img src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" width="42" alt="Windows Terminal"/></a>
 </p>
-<p align="center">
+<p align="left">
   <sub>Prettier • npm • Nodemon • Google Cloud • Render • Vercel • Windows Terminal</sub>
 </p>
+
 
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rajan9115&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
@@ -145,12 +145,12 @@ I enjoy solving practical engineering problems, improving application performanc
 
 ## 🤝 Let's Connect
 
-<p align="center">
+<p align="left">
   <i>Have an idea, opportunity, or interesting engineering challenge?</i><br/>
   <b>Let's connect and build something meaningful together.</b>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:rajank5038383@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -160,7 +160,7 @@ I enjoy solving practical engineering problems, improving application performanc
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:rajank5038383@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" alt="Email"/> 
     <b>rajank5038383@gmail.com</b>
