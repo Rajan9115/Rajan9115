@@ -23,61 +23,108 @@ I enjoy solving practical engineering problems, improving application performanc
 
 ---
 
+
 ## 🚀 Core Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" alt="JavaScript"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="52" alt="TypeScript"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" alt="Node.js"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="52" alt="Express.js"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" alt="React"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="52" alt="Next.js"/></a>
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p align="center">
+  <sub>JavaScript&nbsp; • &nbsp;TypeScript&nbsp; • &nbsp;Node.js&nbsp; • &nbsp;Express.js&nbsp; • &nbsp;React&nbsp; • &nbsp;Next.js</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="Tailwind CSS"/></a>
+</p>
+
+<p align="center">
+  <sub>MongoDB&nbsp; • &nbsp;MySQL&nbsp; • &nbsp;HTML5&nbsp; • &nbsp;CSS3&nbsp; • &nbsp;Tailwind CSS</sub>
+</p>
+
+
 
 ## 🧰 Additional Technologies
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+<p align="center">
+  <a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="42" alt="NestJS"/></a>&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" alt="FastAPI"/></a>&nbsp;&nbsp;
+  <a href="https://ejs.co/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="42" alt="EJS"/></a>&nbsp;&nbsp;
+  <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="42" alt="jQuery"/></a>&nbsp;&nbsp;
+  <a href="https://tanstack.com/query"><img src="https://cdn.simpleicons.org/reactquery/FF4154" width="42" alt="React Query"/></a>&nbsp;&nbsp;
+  <a href="https://reactrouter.com/"><img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="42" alt="React Router"/></a>&nbsp;&nbsp;
+  <a href="https://react-hook-form.com/"><img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="42" alt="React Hook Form"/></a>&nbsp;&nbsp;
+  <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" alt="Redux"/></a>
+</p>
+<p align="center">
+  <sub>NestJS • FastAPI • EJS • jQuery • React Query • React Router • React Hook Form • Redux</sub>
+</p>
+
+<p align="center">
+  <a href="https://socket.io/"><img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="42" alt="Socket.IO"/></a>&nbsp;&nbsp;
+  <a href="https://threejs.org/"><img src="https://cdn.simpleicons.org/threedotjs/FFFFFF" width="42" alt="Three.js"/></a>&nbsp;&nbsp;
+  <a href="https://vite.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="42" alt="Vite"/></a>&nbsp;&nbsp;
+  <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" alt="Redis"/></a>&nbsp;&nbsp;
+  <a href="https://www.prisma.io/"><img src="https://cdn.simpleicons.org/prisma/FFFFFF" width="42" alt="Prisma"/></a>&nbsp;&nbsp;
+  <a href="https://cloudinary.com/"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="42" alt="Cloudinary"/></a>&nbsp;&nbsp;
+  <a href="https://clerk.com/"><img src="https://cdn.simpleicons.org/clerk/6C47FF" width="42" alt="Clerk"/></a>
+</p>
+<p align="center">
+  <sub>Socket.IO • Three.js • Vite • Redis • Prisma • Cloudinary • Clerk</sub>
+</p>
+
+
 
 ## 💻 Programming Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" alt="C++"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://en.cppreference.com/w/c"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" alt="C"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" alt="TypeScript"/></a>
+</p>
+<p align="center">
+  <sub>C++ &nbsp; • &nbsp; C &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; TypeScript</sub>
+</p>
+
+
 
 ## 🛠️ Developer Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
+<p align="center">
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42" alt="GitHub Actions"/></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" alt="Postman"/></a>&nbsp;&nbsp;
+  <a href="https://www.selenium.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="42" alt="Selenium"/></a>&nbsp;&nbsp;
+  <a href="https://eslint.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="42" alt="ESLint"/></a>
+</p>
+<p align="center">
+  <sub>Git • GitHub • GitHub Actions • Postman • Selenium • ESLint</sub>
+</p>
+
+<p align="center">
+  <a href="https://prettier.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="42" alt="Prettier"/></a>&nbsp;&nbsp;
+  <a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="42" alt="npm"/></a>&nbsp;&nbsp;
+  <a href="https://nodemon.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="42" alt="Nodemon"/></a>&nbsp;&nbsp;
+  <a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" alt="Google Cloud"/></a>&nbsp;&nbsp;
+  <a href="https://render.com/"><img src="https://cdn.simpleicons.org/render/46E3B7" width="42" alt="Render"/></a>&nbsp;&nbsp;
+  <a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="42" alt="Vercel"/></a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/windows/terminal/"><img src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" width="42" alt="Windows Terminal"/></a>
+</p>
+<p align="center">
+  <sub>Prettier • npm • Nodemon • Google Cloud • Render • Vercel • Windows Terminal</sub>
+</p>
+
 
 ---
 
@@ -93,13 +140,45 @@ I enjoy solving practical engineering problems, improving application performanc
 
 ---
 
+
+---
+
 ## 🤝 Let's Connect
 
-I'm open to discussing full-stack development, backend engineering, collaboration, and software development opportunities.
+<p align="center">
+  <i>Have an idea, opportunity, or interesting engineering challenge?</i><br/>
+  <b>Let's connect and build something meaningful together.</b>
+</p>
 
-[![Email Rajan](https://img.shields.io/badge/Email-rajank5038383%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajank5038383@gmail.com)
+<p align="center">
+  <a href="mailto:rajank5038383@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Rajan9115">
+    <img src="https://img.shields.io/badge/GITHUB-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajan9115)
+<p align="center">
+  <a href="mailto:rajank5038383@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" alt="Email"/> 
+    <b>rajank5038383@gmail.com</b>
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/Rajan9115">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" alt="GitHub"/>
+    <b>Rajan9115</b>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 👋</b><br/>
+  <sub>Explore my repositories • Share ideas • Let's build together</sub>
+</p>
+
 
 ---
 
