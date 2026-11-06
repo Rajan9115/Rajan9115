@@ -5,7 +5,19 @@
 
 I build scalable web applications, secure APIs, and responsive user experiences.
 
-[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajank5038383@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Rajan9115-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajan9115)
+<p align="left">
+  <a href="mailto:rajank5038383@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://rajanportfolio-omega.vercel.app/">
+    <img src="https://img.shields.io/badge/Contact%20Me-5577E8?style=for-the-badge&logo=vercel&logoColor=white" alt="Contact Me" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Rajan9115">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
