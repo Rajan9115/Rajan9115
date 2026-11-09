@@ -128,7 +128,7 @@ I enjoy solving practical engineering problems, improving application performanc
 ## 📊 GitHub Statistics
 
 
-<p align="center">
+<p align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajan9115&theme=tokyonight" />
 
