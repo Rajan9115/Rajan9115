@@ -131,14 +131,10 @@ I enjoy solving practical engineering problems, improving application performanc
 <p align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajan9115&theme=tokyonight" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rajan9115&layout=compact&theme=tokyonight" />
 
 </p>
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rajan9115&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p>
-
-
 
 
 
