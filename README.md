@@ -138,39 +138,8 @@ I enjoy solving practical engineering problems, improving application performanc
 
 
 
----
 
 
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <i>Have an idea, opportunity, or interesting engineering challenge?</i><br/>
-  <b>Let's connect and build something meaningful together.</b>
-</p>
-
-<p align="left">
-  <a href="mailto:rajank5038383@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Rajan9115">
-    <img src="https://img.shields.io/badge/GITHUB-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="mailto:rajank5038383@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" alt="Email"/> 
-    <b>rajank5038383@gmail.com</b>
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Rajan9115">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" alt="GitHub"/>
-    <b>Rajan9115</b>
-  </a>
-</p>
 
 ---
 
